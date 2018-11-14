@@ -1,0 +1,56 @@
+.Simulation {
+    width: 80%;
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.simulation-form {
+    padding: 40px 0;
+    text-align: left;
+}
+
+.simulation-label {
+    display: block;
+}
+
+.simulation-radio {
+    margin-right: 5px;
+}
+
+.simulation-radio-label {
+    margin-right: 10px;
+}
+
+.simulation-result {
+    text-align: left;
+    opacity: 1;
+    transition: opacity 0.25s;
+}
+
+.simulation-result {
+    text-align: left;
+    opacity: 1;
+    transition: opacity 0.25s;
+}
+
+.simulation-car {
+    font-weight: bold;
+    font-size: 20px;
+    color: green;
+}
+
+.simulation-goat {
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+
+.simulation-error {
+    font-size: 14px;
+    margin: 5px 0;
+    color: red;
+}
+
+.hidden {
+    opacity: 0;
+}
